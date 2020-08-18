@@ -1,8 +1,8 @@
 # Natural Language Processing @ Coursera
 __~Deeplearning.ai__
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/nlp-deeplearning-ai)
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![made-with-jupyter](https://img.shields.io/badge/Made%20with-Jupyter%20Notebooks-1f425f.svg)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
 [![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
 
