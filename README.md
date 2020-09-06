@@ -1,7 +1,7 @@
 # Natural Language Processing @ Coursera
 __~Deeplearning.ai__
 
-[![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
+[![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![made-with-jupyter](https://img.shields.io/badge/Made%20with-Jupyter%20Notebooks-1f425f.svg)
 
